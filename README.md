@@ -76,7 +76,7 @@ CALB regenerated
 
 ![CALB 3D Structure](CALB-structure.png)
 
-Figure 1: Three-dimensional structure of Candida antarctica Lipase B (CALB).
+Figure 1: Three-dimensional structure of Candida antarctica Lipase B (CALB).(3e61c8db-b7c4-4c7b-a829-9a8528cbdef5.jpg)
 
 
 ## Image 2: Active-Site Architecture
