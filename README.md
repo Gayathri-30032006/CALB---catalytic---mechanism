@@ -83,14 +83,14 @@ Figure 1: Three-dimensional structure of Candida antarctica Lipase B (CALB).(3e6
 
 ![CALB Active Site](CALB-active-site.png)
 
-Figure 2: Active-site architecture showing the catalytic residues of CALB.
-
+Figure 2: Active-site architecture showing the catalytic residues of CALB.(dc2782c1-78b6-4e6a-9f90-7034556f2e8b.jpg)
 
 ## Image 3: Mechanism Map
 
 ![CALB Catalytic Mechanism](CALB-mechanism.png)
 
-Figure 3: Simplified catalytic mechanism map of Candida antarctica Lipase B (CALB).
+Figure 3: Simplified catalytic mechanism map of Candida antarctica Lipase B (CALB).(2e57b60f-f479-45e0-a64b-aefca13a5ed9.jpg)
+
 Industrial Applications
 
 CALB is an important industrial enzyme because of its high
