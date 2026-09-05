@@ -50,55 +50,32 @@ These studies support the importance of the catalytic triad
 6. Water/alcohol attack
 7. Product release
 8. Enzyme regeneration
-
-## Mechanism Map
-
-```text
-Ester substrate
-       ↓
-Substrate binding
-       ↓
-Ser105 nucleophilic attack
-       ↓
-Tetrahedral intermediate
-       ↓
-Oxyanion stabilization
-       ↓
-Acyl-enzyme intermediate
-       ↓
-Water / Alcohol attack
-       ↓
-Product formation
-       ↓
-CALB regenerated
-
 ## Image 1: CALB Structure
 
-![CALB 3D Structure](CALB-structure.png)
+![3e61c8db-b7c4-4c7b-a829-9a8528cbdef5.jpg](CALB-structure.png)
 
-Figure 1: Three-dimensional structure of Candida antarctica Lipase B (CALB).(3e61c8db-b7c4-4c7b-a829-9a8528cbdef5.jpg)
+Figure 1: Three-dimensional structure of Candida antarctica Lipase B (CALB).
 
 
 ## Image 2: Active-Site Architecture
 
-![CALB Active Site](CALB-active-site.png)
+![dc2782c1-78b6-4e6a-9f90-7034556f2e8b.jpg](CALB-active-site.png)
 
-Figure 2: Active-site architecture showing the catalytic residues of CALB.(dc2782c1-78b6-4e6a-9f90-7034556f2e8b.jpg)
+Figure 2: Active-site architecture showing the catalytic residues of CALB.
 
 ## Image 3: Mechanism Map
 
-![CALB Catalytic Mechanism](CALB-mechanism.png)
+![2e57b60f-f479-45e0-a64b-aefca13a5ed9.jpg](CALB-mechanism.png)
 
-Figure 3: Simplified catalytic mechanism map of Candida antarctica Lipase B (CALB).(2e57b60f-f479-45e0-a64b-aefca13a5ed9.jpg)
+Figure 3: Simplified catalytic mechanism map of Candida antarctica Lipase B (CALB).
 
-Industrial Applications
+# Industrial Applications
 
 CALB is an important industrial enzyme because of its high
 stability, broad substrate specificity and excellent
 stereoselectivity.
 
-Biodiesel Production: CALB catalyzes transesterification
-  reactions for producing biodiesel from oils and alcohols.
+Biodiesel Production: CALB catalyzes transesterification reactions for producing biodiesel from oils and alcohols.
 
 Pharmaceutical Synthesis: CALB is used for the
   enantioselective synthesis and resolution of pharmaceutical
@@ -123,3 +100,25 @@ formed mainly by Thr40 and Gln106, helps stabilize the reaction
 intermediate. Understanding these active-site residues and
 catalytic steps helps improve the use of CALB in sustainable
 industrial biocatalysis.
+
+## Mechanism Map
+
+```text
+Ester substrate
+       ↓
+Substrate binding
+       ↓
+Ser105 nucleophilic attack
+       ↓
+Tetrahedral intermediate
+       ↓
+Oxyanion stabilization
+       ↓
+Acyl-enzyme intermediate
+       ↓
+Water / Alcohol attack
+       ↓
+Product formation
+       ↓
+CALB regenerated
+
